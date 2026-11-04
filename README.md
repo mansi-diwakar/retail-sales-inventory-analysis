@@ -30,14 +30,21 @@ The objective is to explore sales performance, product categories, regional tren
 - Charts & Data Visualization
 - Data Cleaning and Analysis
 
+
 ## 📁 Project Files
 
 | File | Description |
 |---|---|
-| Raw_Sales_Data.csv | Original dataset used for analysis |
-| Cleaned_Sales_Data.csv | Processed and cleaned dataset |
-| Sales_interactive_Dashboard.xlsx | Excel analysis and dashboard workbook |
-| Dashboard_Preview.png | Dashboard screenshot |
+| Raw_sales_inventory_data.csv | Original retail dataset |
+| Sales_Inventory_Analytics_Data.csv | Processed dataset used for analysis |
+| Sales_Inventory_Interactive_Dashboard.xlsx | Excel analysis and interactive dashboard |
+| IMG_0177.jpeg | Dashboard preview image |
+
+## 📊 Dashboard Preview
+
+![Retail Sales and Inventory Dashboard](IMG_0177.jpeg)
+
+
 
 ## 🔍 Analysis Performed
 
@@ -63,9 +70,6 @@ The objective is to explore sales performance, product categories, regional tren
 
 Key findings and business recommendations will be documented here based on the completed analysis.
 
-## 📊 Dashboard Preview
-
-![Sales Inventory Analytics Dashboard](Dashboard_Preview.png)
 
 ## ⚠️ Project Limitations
 
