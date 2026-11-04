@@ -98,9 +98,8 @@ The processed dataset retains all 73,100 records and 17 original columns.
 | Sales_Inventory_Interactive_Dashboard.xlsx | Excel interactive dashboard and KPI analysis |
 | IMG_0177.jpeg | Dashboard preview image |
 
-## 📊 Dashboard Preview
-
-![Retail Sales and Inventory Dashboard](IMG_0177.
+## 📈Dashboard Preview
+![Retail Sales and Inventory Dashboard](IMG_0177.jpeg)
 
 ## 📈 Key Performance Indicators
 
