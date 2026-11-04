@@ -3,7 +3,7 @@
 
 ### Excel Data Analytics Portfolio Project
 
-**Created by: Mansi Diwakar
+**Created by: Mansi Diwakar**
 
 
 ## 📌 Project Overview
